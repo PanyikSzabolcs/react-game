@@ -1,0 +1,35 @@
+/* body {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    width: 100vw;
+    height: 100vw;
+    overflow: hidden;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+#game {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    overflow-x: scroll;
+    overflow-y: hidden;
+
+    .scene {
+        width: 100vw;
+        height: 100vh;
+        flex-shrink: 0;
+    }
+
+    #player {
+        width: 80px;
+        position: absolute;
+
+        img {
+            width: 100%;
+        }
+    }
+} */
